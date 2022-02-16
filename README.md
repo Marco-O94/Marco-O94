@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marco-O94
 - 👀 I’m interested in Elden Ring and Souls series 
 - 🌱 I’m currently learning PHP and Javascript
-- 💞️ I wat to collaborate on some laravel/vue project
+- 💞️ I want to collaborate on some laravel/vue project
 - 📫 How to reach me: marcooliveri94@gmail.com
 
 <!---
