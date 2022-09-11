@@ -3,7 +3,7 @@
 - I use PHP and Javascript languages
 - 🧡 I love Laravel/Vue projects
 - 🌱 Check my useful repos [Wordpress Useful Functions](https://github.com/Marco-O94/Wordpress-useful-functions) and [Laravel-Vue BoilerPlate](https://github.com/Marco-O94/Laravel-vue-boilerplate)
-- 📫 How to reach me: marcooliveri94@gmail.com
+- 📫 How to get in touch with me: marcooliveri94@gmail.com
 
 
 <!---
