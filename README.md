@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Marco-O94
 - This is my website: [oliverimarco.it](https://oliverimarco.it)
 - I use PHP and Javascript languages
-- 🌱 I love making Wordpress websites and Plugins
-- 💞️ I want to collaborate on some laravel/vue project
-- 🧡 Check my useful repos [Wordpress Useful Functions](https://github.com/Marco-O94/Wordpress-useful-functions) and [Laravel-Vue BoilerPlate](https://github.com/Marco-O94/Laravel-vue-boilerplate)
+- 🧡 I love Laravel/Vue projects
+- 🌱 Check my useful repos [Wordpress Useful Functions](https://github.com/Marco-O94/Wordpress-useful-functions) and [Laravel-Vue BoilerPlate](https://github.com/Marco-O94/Laravel-vue-boilerplate)
 - 📫 How to reach me: marcooliveri94@gmail.com
 
 
