@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Marco-O94<br>🦾 I use PHP and Javascript languages<br>🧡 I love Laravel/Vue projects<br>🧑🏼‍💻 I want to learn React and Python too<br>💭 My dream is to learn as my as I can and doing funny staff with code<br>🌱 Check my latest repos<br>📫 How to get in touch with me: marcooliveri94@gmail.com
+👋 Hi, I’m @Marco-O94<br>🦾 I use PHP and Javascript languages<br>🧡 I love Laravel/Vue projects<br>🧑🏼‍💻 <br>🌱 Check my latest repos<br>📫 How to get in touch with me: marcooliveri94@gmail.com
 
 ![cyberpunk](/cyberpunk.gif)
 
